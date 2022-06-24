@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1e286beb-cb2b-451c-8fb1-a3aeed5d829b" name="Default Changelist" comment="2022/05/20 lius -增加用例设计、测试执行及框架优化" />
+    <list default="true" id="1e286beb-cb2b-451c-8fb1-a3aeed5d829b" name="Default Changelist" comment="2022/06/24 lius -第一次提交代码" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -246,7 +246,14 @@
       <option name="project" value="LOCAL" />
       <updated>1653047716376</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="2022/06/24 lius -第一次提交代码">
+      <created>1656077990980</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1656077990980</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -266,6 +273,7 @@
     <MESSAGE value="修改了供应商管理及采购预算管理case及页面封装" />
     <MESSAGE value="修改了邮箱信息" />
     <MESSAGE value="2022/05/20 lius -增加用例设计、测试执行及框架优化" />
-    <option name="LAST_COMMIT_MESSAGE" value="2022/05/20 lius -增加用例设计、测试执行及框架优化" />
+    <MESSAGE value="2022/06/24 lius -第一次提交代码" />
+    <option name="LAST_COMMIT_MESSAGE" value="2022/06/24 lius -第一次提交代码" />
   </component>
 </project>
