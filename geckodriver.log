@@ -1,0 +1,77 @@
+1636613731596	geckodriver	INFO	Listening on 127.0.0.1:58314
+1636613734746	mozprofile::profile	INFO	Using profile path C:\Users\liushan\AppData\Local\Temp\rust_mozprofile.hUFNtXjD85Fv
+1636613734751	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe
+1636613734834	geckodriver::marionette	INFO	Connecting to Marionette on localhost:58322
+1636613735386	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1636613738362	Marionette	INFO	Listening on port 2828
+1636613856882	Marionette	INFO	Stopped listening on port 2828
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1636613862365	geckodriver	INFO	Listening on 127.0.0.1:58453
+1636613865512	mozprofile::profile	INFO	Using profile path C:\Users\liushan\AppData\Local\Temp\rust_mozprofile.iR483Wod2tqm
+1636613865519	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe
+1636613865591	geckodriver::marionette	INFO	Connecting to Marionette on localhost:58461
+1636613866107	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1636613869076	Marionette	INFO	Listening on port 2828
+1636613919768	geckodriver	INFO	Listening on 127.0.0.1:58542
+1636613922876	mozprofile::profile	INFO	Using profile path C:\Users\liushan\AppData\Local\Temp\rust_mozprofile.rdcnlnLOQiBQ
+1636613922880	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe
+1636613922953	geckodriver::marionette	INFO	Connecting to Marionette on localhost:58550
+1636613923444	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1636613926303	Marionette	INFO	Listening on port 2828
+1636614092852	geckodriver	INFO	Listening on 127.0.0.1:58717
+1636614095991	mozprofile::profile	INFO	Using profile path C:\Users\liushan\AppData\Local\Temp\rust_mozprofile.lVC25bFXamiC
+1636614095997	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe
+1636614096069	geckodriver::marionette	INFO	Connecting to Marionette on localhost:58725
+1636614096585	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1636614099578	Marionette	INFO	Listening on port 2828
+1636614242199	geckodriver	INFO	Listening on 127.0.0.1:58954
+1636614245354	mozprofile::profile	INFO	Using profile path C:\Users\liushan\AppData\Local\Temp\rust_mozprofile.2mkgF5u7PuTi
+1636614245361	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe
+1636614245435	geckodriver::marionette	INFO	Connecting to Marionette on localhost:58962
+1636614245935	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1636614248876	Marionette	INFO	Listening on port 2828
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1636614903617	Marionette	INFO	Stopped listening on port 2828
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1636615288077	geckodriver	INFO	Listening on 127.0.0.1:59822
+1636615291200	mozprofile::profile	INFO	Using profile path C:\Users\liushan\AppData\Local\Temp\rust_mozprofile.oqPSUyMbUYQf
+1636615291205	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe
+1636615291289	geckodriver::marionette	INFO	Connecting to Marionette on localhost:59830
+1636615291833	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1636615294820	Marionette	INFO	Listening on port 2828
+1636615438587	geckodriver	INFO	Listening on 127.0.0.1:60055
+1636615441718	mozprofile::profile	INFO	Using profile path C:\Users\liushan\AppData\Local\Temp\rust_mozprofile.RYFGedDiwfBR
+1636615441726	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe
+1636615441796	geckodriver::marionette	INFO	Connecting to Marionette on localhost:60063
+1636615442319	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1636615445230	Marionette	INFO	Listening on port 2828
+1636615451210	Marionette	INFO	Stopped listening on port 2828
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1651483961272	geckodriver	INFO	Listening on 127.0.0.1:63922
+1651483964353	mozprofile::profile	INFO	Using profile path C:\Users\liushan\AppData\Local\Temp\rust_mozprofile.0wBj0kA6EsFp
+1651483964359	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe
+1651483964444	geckodriver::marionette	INFO	Connecting to Marionette on localhost:63935
+1651483965054	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1651483968357	Marionette	INFO	Listening on port 2828
+1651483999976	Marionette	INFO	Stopped listening on port 2828
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
